@@ -1,3 +1,3 @@
 # hello-world
 My first repository..
-..and my first branch.
+and my first branch.
